@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "title": "Guitar Fundamentals",
+            "description": "Learn the basics of playing guitar, from chords to strumming techniques. Perfect for beginners!",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1683120956604-9db098ccfdcf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3VpdGVyfGVufDB8fDB8fHww",
+            "instructor": "John Smith",
+            "rating": 4.8,
+            "price": "$29.99",
+            "duration": "4 hours",
+            "level": "Beginner"
+        },
+        {
+            "title": "Acoustic Guitar Essentials",
+            "description": "Master the art of acoustic guitar with step-by-step lessons on chord progressions and fingerpicking.",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1681492327647-17a52dc044ce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3VpdGVyfGVufDB8fDB8fHww",
+            "instructor": "Jane Doe",
+            "rating": 4.9,
+            "price": "$34.99",
+            "duration": "5.5 hours",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Electric Guitar Mastery",
+            "description": "A complete guide to electric guitar, covering everything from lead guitar techniques to shredding.",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1682544389764-1f16c83929b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGVsZWN0cmljJTIwZ3VpdGVyfGVufDB8fDB8fHww",
+            "instructor": "Alex Turner",
+            "rating": 4.7,
+            "price": "$39.99",
+            "duration": "6 hours",
+            "level": "Advanced"
+        },
+        {
+            "title": "Blues Guitar for Beginners",
+            "description": "Discover the basics of blues guitar, learning scales, riffs, and how to improvise like a pro.",
+            "imageUrl": "https://images.unsplash.com/photo-1566211684155-e9b50b6d8b71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJsdWVzJTIwZ3VpdGVyfGVufDB8fDB8fHww",
+            "instructor": "Eric Johnson",
+            "rating": 4.6,
+            "price": "$24.99",
+            "duration": "3 hours",
+            "level": "Beginner"
+        },
+        {
+            "title": "Jazz Guitar Improvisation",
+            "description": "Dive deep into jazz guitar techniques with a focus on improvisation and complex chord structures.",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1682088068598-f46164bd82af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZWxlY3RyaWMlMjBndWl0ZXJ8ZW58MHx8MHx8fDA%3D",
+            "instructor": "Miles Davis",
+            "rating": 4.9,
+            "price": "$44.99",
+            "duration": "7 hours",
+            "level": "Advanced"
+        },
+        {
+            "title": "Jazz Guitar Improvisation",
+            "description": "Dive deep into jazz guitar techniques with a focus on improvisation and complex chord structures.",
+            "imageUrl": "https://images.unsplash.com/photo-1529565368178-0451d94fcad6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGVsZWN0cmljJTIwZ3VpdGVyfGVufDB8fDB8fHww",
+            "instructor": "Miles Davis",
+            "rating": 4.9,
+            "price": "$44.99",
+            "duration": "7 hours",
+            "level": "Advanced"
+        }
+    ]
+}
