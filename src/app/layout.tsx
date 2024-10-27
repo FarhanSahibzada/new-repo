@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
  //import Navber from "@/Components/Navber";
-import  { Button } from '@/Components/ui/button' 
+import { Button } from "@/Components/ui/button";
+
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
