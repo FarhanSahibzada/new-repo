@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
- //import Navber from "@/Components/Navber";
+//import Navber from "@/Components/Navber";
 import { Button } from "@/Components/ui/button";
 
 const geistSans = localFont({
@@ -30,11 +30,11 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-           <div className="relative w-full  flex justify-center items-center"> 
-                {/* <Navber/> */}
-              <Button >
-                Click me
-              </Button>
+        <div className="relative w-full  flex justify-center items-center">
+          {/* <Navber/> */}
+          <Button >
+            Click me
+          </Button>
         </div>
         {children}
       </body>
